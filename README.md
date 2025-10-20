@@ -1,5 +1,7 @@
-pretrain the model using
-'''python pretrain.py'''
+pretrain the model using:
 
-then fintune the model using 
-'''python train,py'''
+```python pretrain.py```
+
+then fintune the model using:
+
+```python train.py```
